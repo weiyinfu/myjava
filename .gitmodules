@@ -1,0 +1,12 @@
+[submodule "colorama"]
+	path = colorama
+	url = git@github.com:weiyinfu/colorama.git
+[submodule "excel4j"]
+	path = excel4j
+	url = git@github.com:weiyinfu/excel4j.git
+[submodule "gs"]
+	path = gs
+	url = git@github.com:weiyinfu/gs.git
+[submodule "tqdm"]
+	path = tqdm
+	url = git@github.com:weiyinfu/tqdm.git
