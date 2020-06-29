@@ -10,3 +10,6 @@
 [submodule "tqdm"]
 	path = tqdm
 	url = git@github.com:weiyinfu/tqdm.git
+[submodule "simplejson"]
+	path = simplejson
+	url = git@github.com:weiyinfu/simplejson.git
